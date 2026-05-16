@@ -1,0 +1,8 @@
+1. Test 
+2. Get balance (Savings account)
+3. Deposit money to savings
+4. Deposit debt to credit account
+5. Withdraw money from savings account
+6. Withdraw money from credit account
+7. Credits
+Please enter the function number only!

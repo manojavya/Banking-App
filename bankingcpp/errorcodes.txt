@@ -1,0 +1,3 @@
+100: Unknown function
+101: Wrong Login!
+102: Wrong function
