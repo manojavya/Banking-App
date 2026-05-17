@@ -14,3 +14,4 @@ Made on Arch Linux. Not Associated with Arch Linux or the Arch User Repository.
 
 # INTENDED FOR EDUCATIONAL USE ONLY!!
 This is not a commercial application!!
+ > MIT License
