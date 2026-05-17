@@ -8,3 +8,6 @@ This application needs the `functions.txt` file to function properly this progra
 Please do not try to modify the apps logic unless you know what you are doing
 
 Made on Arch Linux. Not Associated with Arch Linux or the Arch User Repository.
+
+# INTENDED FOR EDUCATIONAL USE ONLY!!
+This is not a commercial application!!
