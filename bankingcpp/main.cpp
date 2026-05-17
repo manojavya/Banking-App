@@ -1,5 +1,5 @@
 /*
-v1.9.0 Stable Release | Private Release | No Commercial |
+v1.9.0 Stable Release | Private Release | No Commercial | Please Do not use this app for commercial purposes only for personal use!!!
 Developed by Manojavya P.M
 Made proudly on Arch Linux in India
 */
