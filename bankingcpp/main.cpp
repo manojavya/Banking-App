@@ -269,7 +269,8 @@ int main(){
             throw 102;
         }
         catch(int excep){
-            cout << "Program Unexpectedly exited with code: " << excep << endl;
+            cout << "ERROR: Program Unexpectedly exited with code " << excep << endl;
         }
     }
 }
+// Fr you have to be jobles ah to do this shi fr bro im the developer but still I aint proud of this.
